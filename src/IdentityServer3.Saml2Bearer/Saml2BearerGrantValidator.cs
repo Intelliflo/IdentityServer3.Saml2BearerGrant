@@ -9,7 +9,7 @@ using IdentityServer3.Core.Logging;
 using IdentityServer3.Core.Services;
 using IdentityServer3.Core.Validation;
 
-namespace IdentityServer3.Saml2Bearer
+namespace IdentityServer3.Contrib.Saml2Bearer
 {
     public class Saml2BearerGrantValidator : ICustomGrantValidator
     {

@@ -7,8 +7,8 @@
     <ProjectGuid>{E0F2D85D-AC49-49ED-8853-FD537327BDCD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IdentityServer3.Saml2Bearer.Tests</RootNamespace>
-    <AssemblyName>IdentityServer3.Saml2Bearer.Tests</AssemblyName>
+    <RootNamespace>IdentityServer3.Contrib.Saml2Bearer.Tests</RootNamespace>
+    <AssemblyName>IdentityServer3.Contrib.Saml2Bearer.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -84,9 +84,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\IdentityServer3.Saml2Bearer\IdentityServer3.Saml2Bearer.csproj">
+    <ProjectReference Include="..\IdentityServer3.Saml2Bearer\IdentityServer3.Contrib.Saml2Bearer.csproj">
       <Project>{6a0dfd4f-09f8-4425-8add-f6b068298ec6}</Project>
-      <Name>IdentityServer3.Saml2Bearer</Name>
+      <Name>IdentityServer3.Contrib.Saml2Bearer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

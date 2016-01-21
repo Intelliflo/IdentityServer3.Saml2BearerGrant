@@ -5,7 +5,7 @@ using System.IdentityModel.Tokens;
 using System.Security.Cryptography.X509Certificates;
 using System.Xml;
 
-namespace IdentityServer3.Saml2Bearer
+namespace IdentityServer3.Contrib.Saml2Bearer
 {
     public class Saml2AssertionFactory : ISaml2AssertionFactory
     {

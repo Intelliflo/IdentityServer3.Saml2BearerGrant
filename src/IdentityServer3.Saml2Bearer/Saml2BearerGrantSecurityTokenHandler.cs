@@ -3,7 +3,7 @@ using System.Collections.ObjectModel;
 using System.IdentityModel.Tokens;
 using System.Security.Claims;
 
-namespace IdentityServer3.Saml2Bearer
+namespace IdentityServer3.Contrib.Saml2Bearer
 {
     /// <summary>
     /// Default SAML2SecurityTokenHandler

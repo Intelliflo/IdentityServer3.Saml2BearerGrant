@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IdentityModel.Tokens;
 using System.Security.Cryptography.X509Certificates;
 
-namespace IdentityServer3.Saml2Bearer
+namespace IdentityServer3.Contrib.Saml2Bearer
 {
     public interface ISaml2AssertionValidationOptions
     {

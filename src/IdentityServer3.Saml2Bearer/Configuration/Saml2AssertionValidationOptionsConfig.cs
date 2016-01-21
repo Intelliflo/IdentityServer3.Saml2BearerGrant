@@ -4,7 +4,7 @@ using System.Configuration;
 using System.IdentityModel.Tokens;
 using System.Security.Cryptography.X509Certificates;
 
-namespace IdentityServer3.Saml2Bearer.Configuration
+namespace IdentityServer3.Contrib.Saml2Bearer.Configuration
 {
     public class Saml2AssertionValidationOptionsConfig : ConfigurationSection, ISaml2AssertionValidationOptions
     {

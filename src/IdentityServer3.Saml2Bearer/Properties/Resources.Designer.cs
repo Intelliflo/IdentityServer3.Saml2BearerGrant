@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IdentityServer3.Saml2Bearer.Properties {
+namespace IdentityServer3.Contrib.Saml2Bearer.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace IdentityServer3.Saml2Bearer.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("IdentityServer3.Saml2Bearer.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("IdentityServer3.Contrib.Saml2Bearer.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

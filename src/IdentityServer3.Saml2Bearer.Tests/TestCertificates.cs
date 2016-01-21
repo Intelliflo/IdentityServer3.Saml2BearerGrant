@@ -1,6 +1,6 @@
 using System.Security.Cryptography.X509Certificates;
 
-namespace IdentityServer3.Saml2Bearer.Tests
+namespace IdentityServer3.Contrib.Saml2Bearer.Tests
 {
     internal class TestCertificates
     {

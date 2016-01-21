@@ -1,7 +1,7 @@
 using System;
 using NUnit.Framework;
 
-namespace IdentityServer3.Saml2Bearer.Tests
+namespace IdentityServer3.Contrib.Saml2Bearer.Tests
 {
     [TestFixture]
     public class Base64UrlExtensionsTest

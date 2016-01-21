@@ -1,14 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
-using System.Globalization;
-using System.IdentityModel.Metadata;
 using System.IdentityModel.Selectors;
 using System.IdentityModel.Tokens;
 using System.Linq;
 using System.Security.Claims;
 using System.Security.Cryptography.X509Certificates;
-using System.ServiceModel.Security;
 using System.Threading.Tasks;
 using IdentityServer3.Core.Extensions;
 using IdentityServer3.Core.Logging;
@@ -19,7 +16,7 @@ using NSubstitute;
 using NUnit.Framework;
 using NUnit.Framework.Constraints;
 
-namespace IdentityServer3.Saml2Bearer.Tests
+namespace IdentityServer3.Contrib.Saml2Bearer.Tests
 {
     [TestFixture]
     public class Saml2BearerGrantValidatorTest

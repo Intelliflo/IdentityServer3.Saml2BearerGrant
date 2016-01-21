@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IdentityServer3.Saml2Bearer.Properties {
+namespace IdentityServer3.Contrib.Saml2Bearer.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

@@ -1,6 +1,4 @@
-using System;
-
-namespace IdentityServer3.Saml2Bearer.Tests
+namespace IdentityServer3.Contrib.Saml2Bearer.Tests
 {
     public static class StringExtensions
     {

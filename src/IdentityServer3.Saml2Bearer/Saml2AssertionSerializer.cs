@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using System.Xml;
 
-namespace IdentityServer3.Saml2Bearer
+namespace IdentityServer3.Contrib.Saml2Bearer
 {
     public class Saml2AssertionSerializer : ISaml2AssertionSerializer
     {

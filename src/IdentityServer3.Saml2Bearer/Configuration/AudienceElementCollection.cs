@@ -1,6 +1,6 @@
 using System.Configuration;
 
-namespace IdentityServer3.Saml2Bearer.Configuration
+namespace IdentityServer3.Contrib.Saml2Bearer.Configuration
 {
     public class AudienceElementCollection : ConfigurationElementCollection
     {

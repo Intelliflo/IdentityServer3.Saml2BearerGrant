@@ -1,9 +1,8 @@
-﻿
-using System;
+﻿using System;
 using System.Text;
 using System.Web;
 
-namespace IdentityServer3.Saml2Bearer
+namespace IdentityServer3.Contrib.Saml2Bearer
 {
     public static class Base64UrlExtensions
     {
